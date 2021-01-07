@@ -1,1 +1,1 @@
-# smallest_strings
+# smallest_substrings
